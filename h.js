@@ -1,1 +1,0 @@
-console.log("musa monkey jena")
